@@ -299,8 +299,7 @@ HERO
 .hero-selo {
   display: inline-block;
 
-  background: rgba(255, 255, 255, 0.12);
-
+color:var(--dourado);
   padding: 12px 22px;
   border-radius: 50px;
 
